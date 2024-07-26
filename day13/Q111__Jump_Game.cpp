@@ -1,4 +1,3 @@
-//here the dp array is used as suppose we reached an index and from that index it is impossible to reach the last index, then say by any other path if we reach the same index, then we know its impossible to reach the end hence saving us needless computation
 
 class Solution {
 public:
